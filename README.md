@@ -6,6 +6,7 @@
 | --------------- | ---------------- |
 | packages/app_xx | Template Project |
 | packages/app_01 | useState         |
+| packages/app_02 | useReducer       |
 
 ## 利用手順
 
