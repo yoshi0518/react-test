@@ -9,6 +9,7 @@
 | packages/app_02 | useReducer                 |
 | packages/app_03 | Todo(useState版)           |
 | packages/app_04 | useEffect、useLayoutEffect |
+| packages/app_05 | stateをprops渡し           |
 
 ## 利用手順
 
