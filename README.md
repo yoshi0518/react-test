@@ -2,12 +2,13 @@
 
 ## アプリ一覧
 
-| ディレクトリ    | 内容             |
-| --------------- | ---------------- |
-| packages/app_xx | Template Project |
-| packages/app_01 | useState         |
-| packages/app_02 | useReducer       |
-| packages/app_03 | Todo(useState版) |
+| ディレクトリ    | 内容                       |
+| --------------- | -------------------------- |
+| packages/app_xx | Template Project           |
+| packages/app_01 | useState                   |
+| packages/app_02 | useReducer                 |
+| packages/app_03 | Todo(useState版)           |
+| packages/app_04 | useEffect、useLayoutEffect |
 
 ## 利用手順
 
