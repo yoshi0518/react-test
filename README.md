@@ -2,14 +2,15 @@
 
 ## アプリ一覧
 
-| ディレクトリ    | 内容                       |
-| --------------- | -------------------------- |
-| packages/app_xx | Template Project           |
-| packages/app_01 | useState                   |
-| packages/app_02 | useReducer                 |
-| packages/app_03 | Todo(useState版)           |
-| packages/app_04 | useEffect、useLayoutEffect |
-| packages/app_05 | stateをprops渡し           |
+| ディレクトリ    | 内容                                                    |
+| --------------- | ------------------------------------------------------- |
+| packages/app_xx | Template Project                                        |
+| packages/app_01 | useState                                                |
+| packages/app_02 | useReducer                                              |
+| packages/app_03 | Todo(useState版)                                        |
+| packages/app_04 | useEffect、useLayoutEffect                              |
+| packages/app_05 | stateをprops渡しで共有                                  |
+| packages/app_06 | stateをuseContextで共有、LocalStorageによるデータ永続化 |
 
 ## 利用手順
 

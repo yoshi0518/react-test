@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>stateをprops渡し</h1>
+      <h1>stateをprops渡しで共有</h1>
       <ComponentA count={count} setCount={setCount} />
     </>
   );
