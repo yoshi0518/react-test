@@ -11,6 +11,7 @@
 | packages/app_04 | useEffect、useLayoutEffect                              |
 | packages/app_05 | stateをprops渡しで共有                                  |
 | packages/app_06 | stateをuseContextで共有、LocalStorageによるデータ永続化 |
+| packages/app_07 | Redux                                                   |
 
 ## 利用手順
 
