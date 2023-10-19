@@ -7,12 +7,13 @@
 | packages/app_xx | Template Project                                        |
 | packages/app_01 | useState                                                |
 | packages/app_02 | useReducer                                              |
-| packages/app_03 | Todo(useState版)                                        |
+| packages/app_03 | Todoリスト(useState版)                                  |
 | packages/app_04 | useEffect、useLayoutEffect                              |
 | packages/app_05 | stateをprops渡しで共有                                  |
 | packages/app_06 | stateをuseContextで共有、LocalStorageによるデータ永続化 |
 | packages/app_07 | Redux(非推奨パターン)                                   |
 | packages/app_08 | Redux(推奨パターン・ReduxToolkit利用)                   |
+| packages/app_09 | Todoリスト(Redux版)                                     |
 
 ## 利用手順
 
