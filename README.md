@@ -14,6 +14,7 @@
 | packages/app_07 | Redux(非推奨パターン)                                   |
 | packages/app_08 | Redux(推奨パターン・ReduxToolkit利用)                   |
 | packages/app_09 | Todoリスト(Redux版)                                     |
+| packages/app_10 | Axios、Chart.js                                         |
 
 ## 利用手順
 
