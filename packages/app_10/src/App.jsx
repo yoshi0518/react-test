@@ -3,6 +3,7 @@ import { Provider } from 'react-redux';
 import store from './store';
 import TodoList from './components/TodoList';
 import AddTodo from './components/AddTodo';
+import OpenMeteo from './components/openMeteo';
 
 const App = () => {
   return (
@@ -15,6 +16,8 @@ const App = () => {
         <TodoList mode="uncompleted" />
         <h2>完了済タスク</h2>
         <TodoList mode="completed" />
+        <h2>Chart</h2>
+        <OpenMeteo />
       </Provider>
     </>
   );
