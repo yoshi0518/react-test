@@ -16,6 +16,7 @@
 | packages/app_09 | Todoリスト(Redux版)                                     |
 | packages/app_10 | Axios、Chart.js                                         |
 | packages/app_11 | モーダルウィンドウ                                      |
+| packages/app_12 | React.memo、useCallback、useMemo                        |
 
 ## 利用手順
 
