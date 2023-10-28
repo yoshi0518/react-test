@@ -24,6 +24,7 @@
 | packages/app_17 | ReactRouter v6                                          |
 | packages/app_18 | ReactRouter v6(Data APIs)                               |
 | packages/app_19 | Firebase Authenticationによるログイン認証               |
+| packages/app_20 | ReactQuery                                              |
 
 ## 利用手順
 
