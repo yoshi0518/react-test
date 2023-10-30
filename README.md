@@ -27,6 +27,7 @@
 | packages/app_20 | ReactQuery                                              |
 | packages/app_21 | カスタムフック                                          |
 | packages/app_22 | Tailwind＋HeadlessUI                                    |
+| packages/app_23 | Firebase FirestoreでのCRUD操作                          |
 
 ## 利用手順
 
