@@ -28,6 +28,7 @@
 | packages/app_21 | カスタムフック                                          |
 | packages/app_22 | Tailwind＋HeadlessUI                                    |
 | packages/app_23 | Firebase FirestoreでのCRUD操作                          |
+| packages/app_24 | Todoリスト(Recoil版)                                    |
 
 ## 利用手順
 
