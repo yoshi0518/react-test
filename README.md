@@ -31,6 +31,7 @@
 | packages/app_24 | Todoリスト(Recoil版)                                    |
 | packages/app_25 | Supabase                                                |
 | packages/app_26 | Zustandによる状態管理                                   |
+| packages/app_27 | Testing Library、Jest                                   |
 
 ## 利用手順
 

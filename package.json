@@ -32,7 +32,8 @@
     "app_23": "pnpm -F \"app_23\"",
     "app_24": "pnpm -F \"app_24\"",
     "app_25": "pnpm -F \"app_25\"",
-    "app_26": "pnpm -F \"app_26\""
+    "app_26": "pnpm -F \"app_26\"",
+    "app_27": "pnpm -F \"app_27\""
   },
   "keywords": [],
   "author": "yoshi0518",
