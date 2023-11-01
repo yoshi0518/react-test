@@ -30,6 +30,9 @@
 | packages/app_23 | Firebase FirestoreでのCRUD操作                          |
 | packages/app_24 | Todoリスト(Recoil版)                                    |
 | packages/app_25 | Supabase                                                |
+| packages/app_26 | Zustandによる状態管理                                   |
+| packages/app_27 | Testing Library、Jest                                   |
+| packages/app_28 | ChakraUI                                                |
 
 ## 利用手順
 
