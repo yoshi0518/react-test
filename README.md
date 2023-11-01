@@ -32,6 +32,7 @@
 | packages/app_25 | Supabase                                                |
 | packages/app_26 | Zustandによる状態管理                                   |
 | packages/app_27 | Testing Library、Jest                                   |
+| packages/app_28 | ChakraUI                                                |
 
 ## 利用手順
 
