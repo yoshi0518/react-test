@@ -33,6 +33,7 @@
 | packages/app_26 | Zustandによる状態管理                                   |
 | packages/app_27 | Testing Library、Jest                                   |
 | packages/app_28 | ChakraUI                                                |
+| packages/app_28 | TypeScript、React Hook Form                             |
 
 ## 利用手順
 
