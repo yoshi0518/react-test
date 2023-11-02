@@ -36,6 +36,7 @@
 | packages/app_29 | TypeScript、React Hook Form                             |
 | packages/app_30 | Radix、Tailwind                                         |
 | packages/app_31 | TanStack Table                                          |
+| packages/app_32 | TypeScript、Storybook                                   |
 
 ## 利用手順
 
