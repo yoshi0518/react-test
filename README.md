@@ -34,7 +34,8 @@
 | packages/app_27 | Testing Library、Jest                                   |
 | packages/app_28 | ChakraUI                                                |
 | packages/app_29 | TypeScript、React Hook Form                             |
-| packages/app_30 | Radix Primitives                                        |
+| packages/app_30 | Radix、Tailwind                                         |
+| packages/app_31 | TanStack Table                                          |
 
 ## 利用手順
 
