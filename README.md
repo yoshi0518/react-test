@@ -37,6 +37,7 @@
 | packages/app_30 | Radix、Tailwind                                         |
 | packages/app_31 | TanStack Table                                          |
 | packages/app_32 | TypeScript、Storybook                                   |
+| packages/app_33 | Mock Service Worker                                     |
 
 ## 利用手順
 
